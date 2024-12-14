@@ -1,0 +1,8 @@
+# ninja log v6
+7	119	7551115382843779	CMakeFiles/C_Compiler.dir/main.c.obj	a5c3bd40f165910d
+1	398	7558602368189874	build.ninja	5ff242ae2e0be6f1
+24	152	7551115383001625	CMakeFiles/C_Compiler.dir/debug.c.obj	52da42c56f8ee35d
+46	190	7550990600011886	CMakeFiles/C_Compiler.dir/memory.c.obj	2079f82af76249c4
+152	314	7551115384264652	C_Compiler.exe	e1c5d35632a90016
+16	137	7551115382955915	CMakeFiles/C_Compiler.dir/chunk.c.obj	a4abe46c36585187
+25	124	7551102675824863	CMakeFiles/C_Compiler.dir/value.c.obj	10f3a7ba7f0bf8d7
